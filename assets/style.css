@@ -1,0 +1,22 @@
+.center {
+  background: antiquewhite;
+}
+.center p {
+  color: green;
+}
+
+.bottom {
+  background: beige;
+}
+.bottom p {
+  color: blue;
+}
+
+.top {
+  background: aliceblue;
+}
+.top p {
+  color: brown;
+}
+
+/*# sourceMappingURL=style.css.map */
